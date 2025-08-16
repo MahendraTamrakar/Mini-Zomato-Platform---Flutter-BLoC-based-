@@ -1,0 +1,492 @@
+[
+  {
+    "id": "r1",
+    "name": "Olympie Olivi",
+    "location": "2 Hudson Pass",
+    "phoneNumber": "355-943-4898",
+    "rating": 1.4,
+    "imageUrl": "https://theguardian.com/sodales/sed/tincidunt/eu/felis/fusce.png?nisi=curae&venenatis=mauris&tristique=viverra&fusce=diam&congue=vitae&diam=quam&id=suspendisse&ornare=potenti&imperdiet=nullam&sapien=porttitor&urna=lacus&pretium=at&nisl=turpis&ut=donec&volutpat=posuere&sapien=metus&arcu=vitae&sed=ipsum&augue=aliquam&aliquam=non&erat=mauris&volutpat=morbi&in=non&congue=lectus&etiam=aliquam&justo=sit&etiam=amet&pretium=diam&iaculis=in&justo=magna&in=bibendum&hac=imperdiet&habitasse=nullam&platea=orci&dictumst=pede&etiam=venenatis&faucibus=non&cursus=sodales&urna=sed&ut=tincidunt&tellus=eu&nulla=felis&ut=fusce&erat=posuere&id=felis&mauris=sed&vulputate=lacus&elementum=morbi&nullam=sem&varius=mauris&nulla=laoreet&facilisi=ut&cras=rhoncus&non=aliquet&velit=pulvinar&nec=sed&nisi=nisl&vulputate=nunc&nonummy=rhoncus&maecenas=dui&tincidunt=vel&lacus=sem&at=sed&velit=sagittis&vivamus=nam&vel=congue&nulla=risus&eget=semper&eros=porta&elementum=volutpat&pellentesque=quam&quisque=pede&porta=lobortis&volutpat=ligula&erat=sit&quisque=amet&erat=eleifend&eros=pede&viverra=libero&eget=quis&congue=orci&eget=nullam&semper=molestie&rutrum=nibh&nulla=in&nunc=lectus&purus=pellentesque&phasellus=at&in=nulla&felis=suspendisse&donec=potenti&semper=cras&sapien=in&a=purus&libero=eu&nam=magna&dui=vulputate&proin=luctus&leo=cum",
+    "type": "streetFood",
+    "status": "comingSoon",
+    "vegNonVeg": "both",
+    "cuisines": "Thai",
+    "openingHours": {
+      "monday": {
+        "isOpen": true,
+        "openTime": { "hour": 19, "minute": 48 },
+        "closeTime": { "hour": 6, "minute": 41 }
+      },
+      "tuesday": {
+        "isOpen": true,
+        "openTime": { "hour": 10, "minute": 51 },
+        "closeTime": { "hour": 16, "minute": 59 }
+      },
+      "wednesday": {
+        "isOpen": true,
+        "openTime": { "hour": 5, "minute": 27 },
+        "closeTime": { "hour": 5, "minute": 44 }
+      },
+      "thursday": {
+        "isOpen": true,
+        "openTime": { "hour": 1, "minute": 12 },
+        "closeTime": { "hour": 10, "minute": 29 }
+      },
+      "friday": {
+        "isOpen": false,
+        "openTime": { "hour": 19, "minute": 7 },
+        "closeTime": { "hour": 17, "minute": 46 }
+      },
+      "saturday": {
+        "isOpen": true,
+        "openTime": { "hour": 19, "minute": 5 },
+        "closeTime": { "hour": 22, "minute": 24 }
+      },
+      "sunday": {
+        "isOpen": false,
+        "openTime": { "hour": 23, "minute": 41 },
+        "closeTime": { "hour": 18, "minute": 37 }
+      }
+    }
+  },
+  {
+    "id": "r2",
+    "name": "Cob Byrkmyr",
+    "location": "88748 Butternut Alley",
+    "phoneNumber": "280-862-0666",
+    "rating": 1.9,
+    "imageUrl": "https://yahoo.com/augue/aliquam/erat.xml?odio=neque&porttitor=libero&id=convallis&consequat=eget&in=eleifend&consequat=luctus&ut=ultricies&nulla=eu&sed=nibh&accumsan=quisque&felis=id&ut=justo&at=sit&dolor=amet&quis=sapien&odio=dignissim&consequat=vestibulum&varius=vestibulum&integer=ante&ac=ipsum&leo=primis&pellentesque=in&ultrices=faucibus&mattis=orci&odio=luctus&donec=et&vitae=ultrices&nisi=posuere&nam=cubilia&ultrices=curae&libero=nulla&non=dapibus&mattis=dolor&pulvinar=vel&nulla=est&pede=donec&ullamcorper=odio&augue=justo&a=sollicitudin&suscipit=ut&nulla=suscipit&elit=a&ac=feugiat&nulla=et&sed=eros",
+    "type": "foodTruck",
+    "status": "comingSoon",
+    "vegNonVeg": "both",
+    "cuisines": "Mediterranean",
+    "openingHours": {
+      "monday": {
+        "isOpen": false,
+        "openTime": { "hour": 14, "minute": 45 },
+        "closeTime": { "hour": 11, "minute": 39 }
+      },
+      "tuesday": {
+        "isOpen": true,
+        "openTime": { "hour": 15, "minute": 54 },
+        "closeTime": { "hour": 8, "minute": 3 }
+      },
+      "wednesday": {
+        "isOpen": false,
+        "openTime": { "hour": 18, "minute": 57 },
+        "closeTime": { "hour": 11, "minute": 13 }
+      },
+      "thursday": {
+        "isOpen": false,
+        "openTime": { "hour": 18, "minute": 2 },
+        "closeTime": { "hour": 11, "minute": 13 }
+      },
+      "friday": {
+        "isOpen": false,
+        "openTime": { "hour": 19, "minute": 4 },
+        "closeTime": { "hour": 8, "minute": 39 }
+      },
+      "saturday": {
+        "isOpen": true,
+        "openTime": { "hour": 15, "minute": 7 },
+        "closeTime": { "hour": 19, "minute": 11 }
+      },
+      "sunday": {
+        "isOpen": true,
+        "openTime": { "hour": 12, "minute": 1 },
+        "closeTime": { "hour": 3, "minute": 3 }
+      }
+    }
+  },
+  {
+    "id": "r3",
+    "name": "Agna Rubra",
+    "location": "09 Eagan Way",
+    "phoneNumber": "517-743-8853",
+    "rating": 1.1,
+    "imageUrl": "https://ed.gov/sit/amet/erat/nulla/tempus.aspx?vel=vulputate&accumsan=vitae&tellus=nisl&nisi=aenean&eu=lectus&orci=pellentesque&mauris=eget&lacinia=nunc&sapien=donec&quis=quis&libero=orci&nullam=eget&sit=orci&amet=vehicula&turpis=condimentum&elementum=curabitur&ligula=in&vehicula=libero&consequat=ut&morbi=massa&a=volutpat&ipsum=convallis&integer=morbi&a=odio&nibh=odio&in=elementum&quis=eu&justo=interdum&maecenas=eu&rhoncus=tincidunt&aliquam=in&lacus=leo&morbi=maecenas&quis=pulvinar&tortor=lobortis&id=est&nulla=phasellus&ultrices=sit&aliquet=amet&maecenas=erat&leo=nulla&odio=tempus&condimentum=vivamus&id=in&luctus=felis&nec=eu&molestie=sapien&sed=cursus&justo=vestibulum&pellentesque=proin&viverra=eu&pede=mi&ac=nulla&diam=ac&cras=enim&pellentesque=in&volutpat=tempor&dui=turpis&maecenas=nec&tristique=euismod&est=scelerisque&et=quam&tempus=turpis&semper=adipiscing&est=lorem&quam=vitae&pharetra=mattis&magna=nibh&ac=ligula&consequat=nec&metus=sem&sapien=duis&ut=aliquam&nunc=convallis&vestibulum=nunc&ante=proin&ipsum=at&primis=turpis&in=a&faucibus=pede&orci=posuere&luctus=nonummy&et=integer&ultrices=non&posuere=velit&cubilia=donec&curae=diam&mauris=neque&viverra=vestibulum",
+    "type": "streetFood",
+    "status": "comingSoon",
+    "vegNonVeg": "veg",
+    "cuisines": "Japanese",
+    "openingHours": {
+      "monday": {
+        "isOpen": false,
+        "openTime": { "hour": 0, "minute": 32 },
+        "closeTime": { "hour": 14, "minute": 9 }
+      },
+      "tuesday": {
+        "isOpen": false,
+        "openTime": { "hour": 6, "minute": 19 },
+        "closeTime": { "hour": 18, "minute": 1 }
+      },
+      "wednesday": {
+        "isOpen": true,
+        "openTime": { "hour": 17, "minute": 3 },
+        "closeTime": { "hour": 12, "minute": 47 }
+      },
+      "thursday": {
+        "isOpen": true,
+        "openTime": { "hour": 15, "minute": 7 },
+        "closeTime": { "hour": 19, "minute": 31 }
+      },
+      "friday": {
+        "isOpen": false,
+        "openTime": { "hour": 14, "minute": 27 },
+        "closeTime": { "hour": 10, "minute": 41 }
+      },
+      "saturday": {
+        "isOpen": false,
+        "openTime": { "hour": 1, "minute": 30 },
+        "closeTime": { "hour": 8, "minute": 42 }
+      },
+      "sunday": {
+        "isOpen": false,
+        "openTime": { "hour": 7, "minute": 51 },
+        "closeTime": { "hour": 11, "minute": 9 }
+      }
+    }
+  },
+  {
+    "id": "r4",
+    "name": "Teddy Schelle",
+    "location": "686 Heffernan Trail",
+    "phoneNumber": "297-653-6756",
+    "rating": 3.5,
+    "imageUrl": "http://blog.com/consequat/nulla/nisl/nunc/nisl/duis/bibendum.aspx?lobortis=mi&sapien=in&sapien=porttitor&non=pede&mi=justo&integer=eu&ac=massa&neque=donec&duis=dapibus&bibendum=duis&morbi=at&non=velit&quam=eu&nec=est&dui=congue&luctus=elementum&rutrum=in&nulla=hac&tellus=habitasse&in=platea&sagittis=dictumst&dui=morbi&vel=vestibulum&nisl=velit&duis=id&ac=pretium&nibh=iaculis&fusce=diam&lacus=erat&purus=fermentum&aliquet=justo&at=nec&feugiat=condimentum&non=neque&pretium=sapien&quis=placerat&lectus=ante&suspendisse=nulla&potenti=justo&in=aliquam&eleifend=quis&quam=turpis&a=eget&odio=elit&in=sodales&hac=scelerisque&habitasse=mauris&platea=sit&dictumst=amet&maecenas=eros&ut=suspendisse&massa=accumsan&quis=tortor&augue=quis&luctus=turpis&tincidunt=sed&nulla=ante&mollis=vivamus&molestie=tortor&lorem=duis&quisque=mattis",
+    "type": "cloudKitchen",
+    "status": "temporarilyClosed",
+    "vegNonVeg": "nonVeg",
+    "cuisines": "Thai",
+    "openingHours": {
+      "monday": {
+        "isOpen": true,
+        "openTime": { "hour": 16, "minute": 27 },
+        "closeTime": { "hour": 2, "minute": 48 }
+      },
+      "tuesday": {
+        "isOpen": true,
+        "openTime": { "hour": 8, "minute": 1 },
+        "closeTime": { "hour": 9, "minute": 42 }
+      },
+      "wednesday": {
+        "isOpen": false,
+        "openTime": { "hour": 12, "minute": 11 },
+        "closeTime": { "hour": 2, "minute": 40 }
+      },
+      "thursday": {
+        "isOpen": true,
+        "openTime": { "hour": 21, "minute": 22 },
+        "closeTime": { "hour": 14, "minute": 18 }
+      },
+      "friday": {
+        "isOpen": true,
+        "openTime": { "hour": 7, "minute": 55 },
+        "closeTime": { "hour": 18, "minute": 3 }
+      },
+      "saturday": {
+        "isOpen": true,
+        "openTime": { "hour": 18, "minute": 4 },
+        "closeTime": { "hour": 16, "minute": 20 }
+      },
+      "sunday": {
+        "isOpen": true,
+        "openTime": { "hour": 17, "minute": 51 },
+        "closeTime": { "hour": 14, "minute": 9 }
+      }
+    }
+  },
+  {
+    "id": "r5",
+    "name": "Dunc Gatheridge",
+    "location": "027 Sunbrook Parkway",
+    "phoneNumber": "883-987-5140",
+    "rating": 1.5,
+    "imageUrl": "http://ted.com/proin/eu/mi/nulla/ac.jpg?in=dui&faucibus=vel&orci=nisl&luctus=duis&et=ac&ultrices=nibh&posuere=fusce&cubilia=lacus&curae=purus&nulla=aliquet&dapibus=at&dolor=feugiat&vel=non&est=pretium&donec=quis&odio=lectus&justo=suspendisse&sollicitudin=potenti&ut=in&suscipit=eleifend&a=quam&feugiat=a&et=odio&eros=in&vestibulum=hac&ac=habitasse&est=platea&lacinia=dictumst&nisi=maecenas&venenatis=ut&tristique=massa&fusce=quis&congue=augue&diam=luctus&id=tincidunt&ornare=nulla&imperdiet=mollis&sapien=molestie&urna=lorem&pretium=quisque&nisl=ut&ut=erat&volutpat=curabitur&sapien=gravida&arcu=nisi&sed=at&augue=nibh&aliquam=in&erat=hac&volutpat=habitasse&in=platea&congue=dictumst&etiam=aliquam&justo=augue&etiam=quam&pretium=sollicitudin&iaculis=vitae&justo=consectetuer&in=eget&hac=rutrum&habitasse=at&platea=lorem&dictumst=integer&etiam=tincidunt&faucibus=ante&cursus=vel&urna=ipsum&ut=praesent&tellus=blandit&nulla=lacinia&ut=erat&erat=vestibulum&id=sed&mauris=magna&vulputate=at&elementum=nunc&nullam=commodo&varius=placerat&nulla=praesent&facilisi=blandit&cras=nam&non=nulla&velit=integer&nec=pede&nisi=justo&vulputate=lacinia&nonummy=eget&maecenas=tincidunt&tincidunt=eget&lacus=tempus&at=vel&velit=pede&vivamus=morbi&vel=porttitor",
+    "type": "foodTruck",
+    "status": "open",
+    "vegNonVeg": "both",
+    "cuisines": "Korean",
+    "openingHours": {
+      "monday": {
+        "isOpen": true,
+        "openTime": { "hour": 7, "minute": 28 },
+        "closeTime": { "hour": 3, "minute": 0 }
+      },
+      "tuesday": {
+        "isOpen": false,
+        "openTime": { "hour": 17, "minute": 58 },
+        "closeTime": { "hour": 21, "minute": 53 }
+      },
+      "wednesday": {
+        "isOpen": true,
+        "openTime": { "hour": 21, "minute": 47 },
+        "closeTime": { "hour": 20, "minute": 37 }
+      },
+      "thursday": {
+        "isOpen": true,
+        "openTime": { "hour": 3, "minute": 38 },
+        "closeTime": { "hour": 9, "minute": 22 }
+      },
+      "friday": {
+        "isOpen": true,
+        "openTime": { "hour": 5, "minute": 53 },
+        "closeTime": { "hour": 11, "minute": 19 }
+      },
+      "saturday": {
+        "isOpen": false,
+        "openTime": { "hour": 5, "minute": 30 },
+        "closeTime": { "hour": 12, "minute": 26 }
+      },
+      "sunday": {
+        "isOpen": true,
+        "openTime": { "hour": 20, "minute": 56 },
+        "closeTime": { "hour": 3, "minute": 43 }
+      }
+    }
+  },
+  {
+    "id": "r6",
+    "name": "Rogers Rubel",
+    "location": "45606 Transport Place",
+    "phoneNumber": "641-912-9965",
+    "rating": 2.1,
+    "imageUrl": "https://csmonitor.com/enim/sit/amet/nunc/viverra/dapibus/nulla.json?integer=ligula&non=vehicula&velit=consequat&donec=morbi&diam=a&neque=ipsum&vestibulum=integer&eget=a&vulputate=nibh&ut=in&ultrices=quis&vel=justo&augue=maecenas&vestibulum=rhoncus&ante=aliquam&ipsum=lacus&primis=morbi&in=quis&faucibus=tortor&orci=id",
+    "type": "bakery",
+    "status": "temporarilyClosed",
+    "vegNonVeg": "veg",
+    "cuisines": "French",
+    "openingHours": {
+      "monday": {
+        "isOpen": false,
+        "openTime": { "hour": 8, "minute": 36 },
+        "closeTime": { "hour": 14, "minute": 29 }
+      },
+      "tuesday": {
+        "isOpen": false,
+        "openTime": { "hour": 17, "minute": 58 },
+        "closeTime": { "hour": 14, "minute": 33 }
+      },
+      "wednesday": {
+        "isOpen": false,
+        "openTime": { "hour": 20, "minute": 51 },
+        "closeTime": { "hour": 23, "minute": 17 }
+      },
+      "thursday": {
+        "isOpen": true,
+        "openTime": { "hour": 5, "minute": 7 },
+        "closeTime": { "hour": 13, "minute": 2 }
+      },
+      "friday": {
+        "isOpen": true,
+        "openTime": { "hour": 0, "minute": 3 },
+        "closeTime": { "hour": 19, "minute": 31 }
+      },
+      "saturday": {
+        "isOpen": true,
+        "openTime": { "hour": 1, "minute": 33 },
+        "closeTime": { "hour": 11, "minute": 45 }
+      },
+      "sunday": {
+        "isOpen": true,
+        "openTime": { "hour": 1, "minute": 13 },
+        "closeTime": { "hour": 9, "minute": 13 }
+      }
+    }
+  },
+  {
+    "id": "r7",
+    "name": "Fitzgerald Lerer",
+    "location": "1574 Cody Pass",
+    "phoneNumber": "434-393-2986",
+    "rating": 2.6,
+    "imageUrl": "http://china.com.cn/sed/vestibulum/sit/amet/cursus/id/turpis.json?porttitor=posuere&pede=cubilia&justo=curae&eu=donec&massa=pharetra&donec=magna&dapibus=vestibulum&duis=aliquet&at=ultrices&velit=erat&eu=tortor&est=sollicitudin&congue=mi&elementum=sit&in=amet&hac=lobortis&habitasse=sapien&platea=sapien",
+    "type": "casualDining",
+    "status": "temporarilyClosed",
+    "vegNonVeg": "both",
+    "cuisines": "Greek",
+    "openingHours": {
+      "monday": {
+        "isOpen": true,
+        "openTime": { "hour": 7, "minute": 15 },
+        "closeTime": { "hour": 10, "minute": 42 }
+      },
+      "tuesday": {
+        "isOpen": false,
+        "openTime": { "hour": 23, "minute": 30 },
+        "closeTime": { "hour": 12, "minute": 37 }
+      },
+      "wednesday": {
+        "isOpen": false,
+        "openTime": { "hour": 13, "minute": 22 },
+        "closeTime": { "hour": 12, "minute": 20 }
+      },
+      "thursday": {
+        "isOpen": true,
+        "openTime": { "hour": 15, "minute": 9 },
+        "closeTime": { "hour": 22, "minute": 58 }
+      },
+      "friday": {
+        "isOpen": true,
+        "openTime": { "hour": 14, "minute": 48 },
+        "closeTime": { "hour": 16, "minute": 55 }
+      },
+      "saturday": {
+        "isOpen": true,
+        "openTime": { "hour": 10, "minute": 36 },
+        "closeTime": { "hour": 5, "minute": 50 }
+      },
+      "sunday": {
+        "isOpen": true,
+        "openTime": { "hour": 5, "minute": 39 },
+        "closeTime": { "hour": 6, "minute": 29 }
+      }
+    }
+  },
+  {
+    "id": "r8",
+    "name": "Gustavo Londing",
+    "location": "0929 Huxley Avenue",
+    "phoneNumber": "381-440-9261",
+    "rating": 3.5,
+    "imageUrl": "http://dion.ne.jp/in/hac/habitasse/platea.aspx?pede=nam&posuere=congue&nonummy=risus&integer=semper&non=porta&velit=volutpat&donec=quam&diam=pede&neque=lobortis&vestibulum=ligula&eget=sit&vulputate=amet&ut=eleifend&ultrices=pede&vel=libero&augue=quis&vestibulum=orci&ante=nullam",
+    "type": "fastCasual",
+    "status": "temporarilyClosed",
+    "vegNonVeg": "both",
+    "cuisines": "Thai",
+    "openingHours": {
+      "monday": {
+        "isOpen": true,
+        "openTime": { "hour": 19, "minute": 3 },
+        "closeTime": { "hour": 6, "minute": 52 }
+      },
+      "tuesday": {
+        "isOpen": false,
+        "openTime": { "hour": 2, "minute": 14 },
+        "closeTime": { "hour": 19, "minute": 49 }
+      },
+      "wednesday": {
+        "isOpen": false,
+        "openTime": { "hour": 11, "minute": 16 },
+        "closeTime": { "hour": 18, "minute": 33 }
+      },
+      "thursday": {
+        "isOpen": false,
+        "openTime": { "hour": 0, "minute": 18 },
+        "closeTime": { "hour": 6, "minute": 49 }
+      },
+      "friday": {
+        "isOpen": true,
+        "openTime": { "hour": 4, "minute": 13 },
+        "closeTime": { "hour": 10, "minute": 6 }
+      },
+      "saturday": {
+        "isOpen": true,
+        "openTime": { "hour": 1, "minute": 47 },
+        "closeTime": { "hour": 8, "minute": 6 }
+      },
+      "sunday": {
+        "isOpen": true,
+        "openTime": { "hour": 15, "minute": 1 },
+        "closeTime": { "hour": 22, "minute": 13 }
+      }
+    }
+  },
+  {
+    "id": "r9",
+    "name": "Maribelle Tersay",
+    "location": "556 Lakeland Road",
+    "phoneNumber": "140-719-6263",
+    "rating": 2.2,
+    "imageUrl": "https://nasa.gov/natoque/penatibus/et/magnis.aspx?curae=in&duis=faucibus&faucibus=orci&accumsan=luctus&odio=et&curabitur=ultrices&convallis=posuere&duis=cubilia&consequat=curae&dui=nulla&nec=dapibus&nisi=dolor&volutpat=vel&eleifend=est&donec=donec&ut=odio&dolor=justo&morbi=sollicitudin&vel=ut&lectus=suscipit&in=a&quam=feugiat&fringilla=et&rhoncus=eros&mauris=vestibulum&enim=ac&leo=est&rhoncus=lacinia&sed=nisi&vestibulum=venenatis&sit=tristique&amet=fusce&cursus=congue&id=diam&turpis=id&integer=ornare&aliquet=imperdiet&massa=sapien&id=urna&lobortis=pretium&convallis=nisl&tortor=ut&risus=volutpat&dapibus=sapien&augue=arcu&vel=sed&accumsan=augue&tellus=aliquam&nisi=erat&eu=volutpat&orci=in&mauris=congue&lacinia=etiam&sapien=justo&quis=etiam&libero=pretium&nullam=iaculis&sit=justo&amet=in&turpis=hac&elementum=habitasse&ligula=platea&vehicula=dictumst&consequat=etiam&morbi=faucibus&a=cursus&ipsum=urna&integer=ut&a=tellus&nibh=nulla&in=ut&quis=erat&justo=id&maecenas=mauris&rhoncus=vulputate&aliquam=elementum&lacus=nullam&morbi=varius&quis=nulla&tortor=facilisi&id=cras&nulla=non&ultrices=velit&aliquet=nec&maecenas=nisi&leo=vulputate&odio=nonummy&condimentum=maecenas&id=tincidunt&luctus=lacus&nec=at",
+    "type": "casualDining",
+    "status": "open",
+    "vegNonVeg": "nonVeg",
+    "cuisines": "French",
+    "openingHours": {
+      "monday": {
+        "isOpen": true,
+        "openTime": { "hour": 11, "minute": 52 },
+        "closeTime": { "hour": 5, "minute": 31 }
+      },
+      "tuesday": {
+        "isOpen": true,
+        "openTime": { "hour": 13, "minute": 21 },
+        "closeTime": { "hour": 2, "minute": 22 }
+      },
+      "wednesday": {
+        "isOpen": true,
+        "openTime": { "hour": 9, "minute": 47 },
+        "closeTime": { "hour": 14, "minute": 39 }
+      },
+      "thursday": {
+        "isOpen": false,
+        "openTime": { "hour": 1, "minute": 34 },
+        "closeTime": { "hour": 15, "minute": 50 }
+      },
+      "friday": {
+        "isOpen": true,
+        "openTime": { "hour": 6, "minute": 39 },
+        "closeTime": { "hour": 7, "minute": 55 }
+      },
+      "saturday": {
+        "isOpen": true,
+        "openTime": { "hour": 12, "minute": 24 },
+        "closeTime": { "hour": 15, "minute": 30 }
+      },
+      "sunday": {
+        "isOpen": false,
+        "openTime": { "hour": 9, "minute": 11 },
+        "closeTime": { "hour": 15, "minute": 24 }
+      }
+    }
+  },
+  {
+    "id": "r10",
+    "name": "Luciano Purdy",
+    "location": "796 Marcy Court",
+    "phoneNumber": "538-961-8725",
+    "rating": 1.4,
+    "imageUrl": "http://foxnews.com/ultrices/posuere/cubilia/curae/nulla/dapibus/dolor.jpg?habitasse=morbi&platea=vestibulum&dictumst=velit&morbi=id&vestibulum=pretium&velit=iaculis&id=diam&pretium=erat&iaculis=fermentum&diam=justo&erat=nec&fermentum=condimentum&justo=neque&nec=sapien&condimentum=placerat&neque=ante&sapien=nulla&placerat=justo&ante=aliquam&nulla=quis&justo=turpis&aliquam=eget&quis=elit&turpis=sodales&eget=scelerisque&elit=mauris&sodales=sit&scelerisque=amet&mauris=eros&sit=suspendisse&amet=accumsan&eros=tortor&suspendisse=quis&accumsan=turpis&tortor=sed&quis=ante&turpis=vivamus&sed=tortor&ante=duis&vivamus=mattis&tortor=egestas&duis=metus&mattis=aenean&egestas=fermentum&metus=donec&aenean=ut&fermentum=mauris&donec=eget&ut=massa&mauris=tempor",
+    "type": "fastCasual",
+    "status": "temporarilyClosed",
+    "vegNonVeg": "both",
+    "cuisines": "Greek",
+    "openingHours": {
+      "monday": {
+        "isOpen": false,
+        "openTime": { "hour": 4, "minute": 13 },
+        "closeTime": { "hour": 4, "minute": 35 }
+      },
+      "tuesday": {
+        "isOpen": true,
+        "openTime": { "hour": 18, "minute": 54 },
+        "closeTime": { "hour": 13, "minute": 13 }
+      },
+      "wednesday": {
+        "isOpen": true,
+        "openTime": { "hour": 15, "minute": 25 },
+        "closeTime": { "hour": 15, "minute": 22 }
+      },
+      "thursday": {
+        "isOpen": true,
+        "openTime": { "hour": 7, "minute": 8 },
+        "closeTime": { "hour": 8, "minute": 38 }
+      },
+      "friday": {
+        "isOpen": false,
+        "openTime": { "hour": 20, "minute": 53 },
+        "closeTime": { "hour": 15, "minute": 6 }
+      },
+      "saturday": {
+        "isOpen": false,
+        "openTime": { "hour": 4, "minute": 54 },
+        "closeTime": { "hour": 8, "minute": 32 }
+      },
+      "sunday": {
+        "isOpen": true,
+        "openTime": { "hour": 7, "minute": 11 },
+        "closeTime": { "hour": 8, "minute": 47 }
+      }
+    }
+  }
+]
